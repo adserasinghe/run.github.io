@@ -603,3 +603,9 @@ body {
   width: 100vw;
 }
 }
+h2{
+	font-size: medium;
+	text-align: center;
+	color: #fff;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
