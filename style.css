@@ -609,3 +609,7 @@ h2{
 	color: #fff;
 	font-family: Verdana, Geneva, Tahoma, sans-serif; 
 }
+a {
+	color: #fff;
+	text-decoration: none;
+}
